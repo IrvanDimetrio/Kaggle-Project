@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://www.github.com/irvandimetrio">
-    <img src="https://img.shields.io/github/followers/caesarmario?style=social&link=https://www.github.com/irvandimetrio" alt"GitHub"/>
+    <img src="https://img.shields.io/github/followers/irvandimetrio?style=social&link=https://www.github.com/irvandimetrio" alt"GitHub"/>
   </a>
 </p>
 <br>
