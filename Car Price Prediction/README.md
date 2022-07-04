@@ -12,8 +12,8 @@
 
 
 ## 💻Demo Streamlit Car Price Prediction App💻
-
-
+For the Demo app, you can check My<b><a href ="https://irvandimetrio-car-price-prediction-using-xgboost-myapp-ysbzcg.streamlitapp.com/"> Streamlit</a></b>
+<br>
 ## 🖋 About Project
 *   This repository contains files to create Machine Learning Model to Predict Car Price using Jupyter Notebook and the dataset from Kaggle
 *   The steps taken consist of: 
