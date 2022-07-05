@@ -22,7 +22,7 @@ For the Demo app, you can check My<b><a href ="https://irvandimetrio-car-price-p
 ## 📝Goal & Objective📝
 * To build machine learning models to determine the selling price of a car that can be standardized using some variables or features of the car's actual condition.
 
-## 🖋 About Project
+## 🖋 About This Project
 *   This repository contains files to create Machine Learning Model to Predict Car Price using Jupyter Notebook and the dataset from Kaggle
 *   The steps taken consist of: 
     - Check the dataset
